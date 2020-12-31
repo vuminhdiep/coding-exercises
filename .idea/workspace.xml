@@ -20,34 +20,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0442a04-2040-4c53-b0a8-3d831f5e92d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Binary Search/energy exchange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/monkey and the oiled bamboo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/the playboy chimp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/106 miles to chicago.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/XYZZY.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/alice in amsterdam - i mean wonderland.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/arbitrage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/asterix and obelix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/eko.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/event organizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/extended traffic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/greg and graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/hacking the random number generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/maelstrom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/meeting prof miguel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/monks business day.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/pizzamania.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/possible friends.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/risk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/single source shortest path - negative weights.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/solve it.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/thunder mountain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/where is the marble.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/wormholes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/coding-exercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/coding-exercises.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BST/distinct count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BST/megacity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BST/monk and his friends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BST/penguins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSU/ice skating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prim/cobbled streets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prim/minimum spanning trê.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trie/contacts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trie/no prefix set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trie/search engine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/acm contest and blackout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/audiophobia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/bank and vulnerable passwords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/connect the campus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/consistency checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/cthulhu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/diccionario portunol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/dna prefix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/forests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/friends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/graph connectivity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/hardwood species.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/isenbaev number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/lost and survived.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/minimum loss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/old berland language.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/road construction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/simulate network.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/special subtree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/tanya and postcard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/two sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/ubiquitous religions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/war.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
