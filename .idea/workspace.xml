@@ -20,39 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0442a04-2040-4c53-b0a8-3d831f5e92d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BST/distinct count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BST/megacity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BST/monk and his friends.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BST/penguins.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSU/ice skating.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prim/cobbled streets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prim/minimum spanning trê.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trie/contacts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trie/no prefix set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trie/search engine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/acm contest and blackout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/audiophobia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/bank and vulnerable passwords.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/connect the campus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/consistency checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/cthulhu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/diccionario portunol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/dna prefix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/forests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/friends.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/graph connectivity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/hardwood species.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/isenbaev number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/lost and survived.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/minimum loss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/old berland language.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/road construction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/simulate network.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/special subtree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/tanya and postcard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/two sets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/ubiquitous religions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved problems/war.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +47,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BigO-Blue" />
   </component>
   <component name="RunManager">
     <configuration name="find the median" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -131,27 +98,32 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609386136336">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609386136336" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1609386160871">
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1609392703583">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609386160871" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1609386160867">
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609392703583" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1609392684637">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609386160867" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1609386160867">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609392684637" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1609392684637">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609386160867" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1609386160867">
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609392684637" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1609392684637">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609386160867" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609392684637" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1609392684637">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609392684637" />
   </component>
 </project>
