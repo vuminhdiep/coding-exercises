@@ -19,7 +19,35 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2171c3c5-eb49-41c1-afed-ba462f5560b4" name="Default Changelist" comment="">
+    <list default="true" id="b0442a04-2040-4c53-b0a8-3d831f5e92d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Binary Search/energy exchange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/monkey and the oiled bamboo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/the playboy chimp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/106 miles to chicago.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/XYZZY.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/alice in amsterdam - i mean wonderland.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/arbitrage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/asterix and obelix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/eko.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/event organizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/extended traffic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/greg and graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/hacking the random number generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/maelstrom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/meeting prof miguel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/monks business day.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/pizzamania.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/possible friends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/risk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/single source shortest path - negative weights.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/solve it.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/thunder mountain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/where is the marble.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved problems/wormholes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/coding-exercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/coding-exercises.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +65,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1lt0GKGFBNG73KjMZN3Jci2mHRl" />
+  <component name="ProjectId" id="1mPD0caJ5NRUzMpuGDlwgj0QxJj" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -46,25 +74,23 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
-    <configuration name="coding-exercises" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="find the median" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding-exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\InfiniGru Dell\anaconda3\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/find the median.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,15 +99,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.find the median" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2171c3c5-eb49-41c1-afed-ba462f5560b4" name="Default Changelist" comment="" />
-      <created>1608400982671</created>
+      <changelist id="b0442a04-2040-4c53-b0a8-3d831f5e92d2" name="Default Changelist" comment="" />
+      <created>1609386110334</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1608400982671</updated>
+      <updated>1609386110334</updated>
     </task>
     <servers />
   </component>
@@ -95,46 +126,27 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="508" y="284" key="#Notifications" timestamp="1609227669745">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609386136336">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="508" y="284" key="#Notifications/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609227669745" />
-    <state x="223" y="111" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609227643846">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609386136336" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1609386160871">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="223" y="111" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609227643846" />
-    <state width="1500" height="208" key="GridCell.Tab.0.bottom" timestamp="1609227303260">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609386160871" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1609386160867">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1500" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609227303260" />
-    <state width="1500" height="208" key="GridCell.Tab.0.center" timestamp="1609227303260">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609386160867" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1609386160867">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1500" height="208" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609227303260" />
-    <state width="1500" height="208" key="GridCell.Tab.0.left" timestamp="1609227303260">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609386160867" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1609386160867">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1500" height="208" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609227303260" />
-    <state width="1500" height="208" key="GridCell.Tab.0.right" timestamp="1609227303260">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1500" height="208" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609227303260" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609386160867" />
   </component>
 </project>
