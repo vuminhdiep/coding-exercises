@@ -17,25 +17,19 @@
 # Bước 5: In ra kết quả.
 # Độ phức tạp: O(n) với n là số điểm dữ liệu.
 
+
 n = int(input())
-a = list(map(int, input().split()))
-
-fre = [0] * (10 ** 5 + 5)
-diff = 0
-j = 0
-longest_range = 0
-
-for i in range(n):
-    if fre[a[i]] == 0:
-        diff += 1
-    fre[a[i]] += 1
-
-    while j < n and diff > 2:
-        if fre[a[j]] == 1:
-            diff -= 1
-        fre[a[j]] -= 1
-        j += 1
-
-    longest_range = max(longest_range, i - j + 1)
-
-print(longest_range)
+a = list(map(int,input().split()))
+maxx = 1
+aa=0
+bb=0
+l=0
+for i in range(1,n):
+    tmp = a[i]-a[i-1]
+    if tmp!=0:
+        if tmp==aa:
+            l = bb+1
+        bb = i-1
+        aa = tmp
+    maxx = max(maxx, i - l + 1)
+print(maxx)

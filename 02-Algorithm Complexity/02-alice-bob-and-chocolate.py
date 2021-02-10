@@ -12,6 +12,7 @@
 # Bước 4: Số thanh chocolate mà Alice đã ăn được chính bằng giá trị của ii và của Bob là (n - i)(n−i).
 # Độ phức tạp O(n)O(n) với nn là số lượng thanh chocolate.
 
+
 n = int(input())
 chocolate = list(map(int, input().split()))
 t_alice = t_bob = 0
