@@ -29,3 +29,12 @@ for i in range(n):
 
 for rating in ratings:
     print(ranked[rating], end=' ')
+
+
+#Cach 2
+
+n =int(input())
+l = list(map(int,input().split()))
+t=sorted(l,reverse=True)
+for i in l:
+    print(t.index(i)+1) #returns the position at the first occurrence of the specified value.
