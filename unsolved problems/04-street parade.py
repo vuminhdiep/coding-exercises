@@ -7,14 +7,14 @@
 
 # Bước 1: Đọc thông tin các xe hiện có trong bãi vào một mảng.
 # Bước 2: Khởi tạo một stack dùng để mô phỏng con hẻm. Ban đầu stack rỗng.
-# Bước 3: Sử dụng một biến đếm lưu số thứ tự xe cần để đem ra trình diễn với giá trị khởi tạo bằng 11.
+# Bước 3: Sử dụng một biến đếm lưu số thứ tự xe cần để đem ra trình diễn với giá trị khởi tạo bằng 1.
 # Bước 4: Duyệt qua từng chiếc xe trong bãi:
 # Nếu số thứ tự đang cần đúng bằng số thứ tự xe trong bãi đỗ xe thì đưa xe này ra trình diễn và tăng thứ tự trình diễn.
 # Ngược lại, xét xem xe trong hẻm có phù hợp không:
 # Nếu có, đem xe trong hẻm ra trình diễn và tăng thứ tự trình diễn.
 # Nếu không, nghĩa là cả xe đang nằm trong bãi và xe đầu hẻm đều không đúng thứ tự, ta đưa xe hiện tại trong bãi vào hẻm để xét xe kế tiếp.
 # Bước 5: Nếu hết xe trong bãi đỗ, ta cần kiểm tra các xe còn lại trong hẻm có thỏa thứ tự còn lại hay không và đưa ra trình diễn nếu đúng.
-# Bước 6: Kiểm tra biến lưu thứ tự trình diễn. Nếu biến đạt tới thứ tự (N + 1)(N+1) nghĩa là ta đã đem đủ n chiếc xe ra trình diễn, in “yes”. Ngược lại, in “no”.
+# Bước 6: Kiểm tra biến lưu thứ tự trình diễn. Nếu biến đạt tới thứ tự (N + 1) nghĩa là ta đã đem đủ n chiếc xe ra trình diễn, in “yes”. Ngược lại, in “no”.
 # Bước 7: Reset các biến cần thiết, chuẩn bị cho bộ test tiếp theo.
 
 while True:
