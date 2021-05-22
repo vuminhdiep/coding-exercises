@@ -5,6 +5,7 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
+# Complexity: O(n)
 # The key to the problem is that there is ALWAYS only 1 pair of numbers that satisfy the condition of adding together to be the target value.
 # We can assume that for all the numbers in the list (x1, x2, ... xn) that there exists a pair such that xa + xb = target
 # To solve this with a single pass of the list we can change the equation above to xa = target - xb and since we know the target as long as we maintain a record of all previous values in the list we can compare the current value (xa) to it's ONLY pair, if it exists, in record of all previous values (xb)
@@ -16,6 +17,12 @@ class Solution(object):
                 return [res[second], i]
             else:
                 res[nums[i]] = i
+
+#Complexity: O(n^2)
+        # for i in range(len(nums)):
+        #     for j in range(1,len(nums)):
+        #         if nums[j] == target - nums[i]:
+        #             return [i, j]
 
 
 if __name__ == '__main__':
