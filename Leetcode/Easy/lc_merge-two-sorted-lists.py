@@ -19,6 +19,9 @@ class Solution(object):
         :type l2: ListNode
         :rtype: ListNode
         """
+
+        #Time complexity: O (m+n) with m and n are the number of nodes in l1, l2
+        # Space complexity: O(1)
         # Compare both the list at every instance. If one node is less than the other, we will increment the count of
         # that list and add it to the dummy node Pointer is the current pointer of a dummy node
         dummy = pointer = ListNode(0)
