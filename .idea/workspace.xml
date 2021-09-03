@@ -20,8 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0442a04-2040-4c53-b0a8-3d831f5e92d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/Easy/lc_rotate image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Medium/122. Best Time to Buy and Sell Stock II .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Medium/287.  Find the Duplicate Number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/lc_Remove Linked List Elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Easy/203. Remove Linked List Elements .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/lc_Strstr.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Easy/28. Implement strStr() .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/lc_best-time-to-buy-and-sell-stocks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/lc_longest-common-prefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Easy/14. Longest Common Prefix .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/lc_maximum-subarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Easy/53. Maximum Subarray .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/lc_merge-two-sorted-lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Easy/21. Merge Two Sorted Lists .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/lc_missing-number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Easy/268. Missing Number .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/lc_palindrome-number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Easy/9. Palindrome Number .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/lc_remove-duplicates-from-sorted-array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Easy/26. Remove Duplicates from Sorted Array .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/lc_remove-element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Easy/27. Remove Element .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/lc_reverse-integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Easy/7. Reverse Integer .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/lc_roman-integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Easy/13. Roman to Integer .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/lc_rotate image.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Medium/48. Rotate Image .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/lc_search-insert-position.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Easy/35. Search Insert Position .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/lc_two-sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Easy/1. Two Sum .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Easy/lc_valid-parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Easy/20. Valid Parentheses .py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +75,8 @@
       <recent name="C:\Users\NC\Documents\GitHub\coding-exercises\Leetcode\Easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lc_search-insert-position">
-    <configuration name="lc_best-time-to-buy-and-sell-stocks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.35. Search Insert Position ">
+    <configuration name="122. Best Time to Buy and Sell Stock II " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding-exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Easy/lc_best-time-to-buy-and-sell-stocks.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\NC\Documents\GitHub\coding-exercises\Leetcode\Easy\122. Best Time to Buy and Sell Stock II .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lc_maximum-subarray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1. Two Sum " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding-exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Easy/lc_maximum-subarray.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\NC\Documents\GitHub\coding-exercises\Leetcode\Easy\1. Two Sum .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lc_remove-element" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="27. Remove Element " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding-exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Easy/lc_remove-element.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\NC\Documents\GitHub\coding-exercises\Leetcode\Easy\27. Remove Element .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lc_search-insert-position" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="35. Search Insert Position " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding-exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,7 +151,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Easy/lc_search-insert-position.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\NC\Documents\GitHub\coding-exercises\Leetcode\Easy\35. Search Insert Position .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lc_two-sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="53. Maximum Subarray " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding-exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,7 +172,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Easy/lc_two-sum.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\NC\Documents\GitHub\coding-exercises\Leetcode\Easy\53. Maximum Subarray .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lc_search-insert-position" />
-        <item itemvalue="Python.lc_remove-element" />
-        <item itemvalue="Python.lc_two-sum" />
-        <item itemvalue="Python.lc_maximum-subarray" />
-        <item itemvalue="Python.lc_best-time-to-buy-and-sell-stocks" />
+        <item itemvalue="Python.35. Search Insert Position " />
+        <item itemvalue="Python.27. Remove Element " />
+        <item itemvalue="Python.1. Two Sum " />
+        <item itemvalue="Python.53. Maximum Subarray " />
+        <item itemvalue="Python.122. Best Time to Buy and Sell Stock II " />
       </list>
     </recent_temporary>
   </component>
