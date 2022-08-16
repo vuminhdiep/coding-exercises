@@ -12,7 +12,7 @@ class Solution(object):
         heap = []
         for i in stones:
             heapq.heappush(heap,-i) # Using as max heap.
-        while len(heap) - 1:
+        while len(heap) > 1:
             x = heapq.heappop(heap) # x and y are top 2 largest values.
             y = heapq.heappop(heap)
             heapq.heappush(heap,x-y)
