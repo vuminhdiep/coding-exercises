@@ -15,6 +15,7 @@ class Solution(object):
         while len(heap) > 1:
             x = heapq.heappop(heap) # x and y are top 2 largest values.
             y = heapq.heappop(heap)
+        
             heapq.heappush(heap,x-y)
         ans = heapq.heappop(heap) #revert back to positive
         return -ans
