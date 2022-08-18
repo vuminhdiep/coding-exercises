@@ -9,6 +9,7 @@ class Solution(object):
         #create a max heap
         #pop i k times
         #return the top element
+        #Complexity: O(logK) time, O(k) space 
         res = 0
         maxHeap = []
         for i in nums:
